@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click here to see solution](https://your-solution-url.com)
-- Live Site URL: [Click here to preview the website](https://your-live-site-url.com)
+- Solution URL: [Click here to see solution](https://www.frontendmentor.io/solutions/product-preview-card-component-solution-cEGna572P8)
+- Live Site URL: [Click here to preview the website](https://ktmogo.github.io/product-preview-card-component-solution/)
 
 ## My process
 
